@@ -50,12 +50,12 @@ class Projects extends Component {
           </Fade>
         </div>
         <div className="repo-cards-div-main">
-          {ProjectsData.data.map((repo) => {
+          {/* ProjectsData.data.map((repo) => {
             return <GithubRepoCard repo={repo} theme={theme} />;
-          })}
+          })/*/}
         </div>
         <Button
-          text={"More Projects"}
+          text={"View Projects"}
           className="project-button"
           href={greeting.githubProfile}
           newTab={true}
