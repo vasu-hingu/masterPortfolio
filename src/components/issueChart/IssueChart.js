@@ -10,9 +10,11 @@ class IssueChart extends Component {
       labels: ["Open", "Closed"],
       datasets: [
         {
+          /*
           data: [IssueData["open"], IssueData["closed"]],
           backgroundColor: ["#28a745", "#d73a49"],
           hoverBackgroundColor: ["#28a745dd", "#d73a49dd"],
+      */
         },
       ],
     };
