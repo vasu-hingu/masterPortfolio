@@ -10,6 +10,7 @@ class OrganizationList extends Component {
         <ul className="dev-icons-orgs">
           {this.props.logos.map((logo) => {
             return (
+              /*
               <OverlayTrigger
                 key={logo["login"]}
                 placement={"top"}
@@ -30,6 +31,8 @@ class OrganizationList extends Component {
                   </Fade>
                 </li>
               </OverlayTrigger>
+              */
+              null
             );
           })}
         </ul>
