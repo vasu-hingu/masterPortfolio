@@ -10,6 +10,7 @@ class PullRequestChart extends Component {
       labels: ["Open", "Merged", "Closed"],
       datasets: [
         {
+          /*
           data: [
             PullRequestData["open"],
             PullRequestData["merged"],
@@ -17,6 +18,7 @@ class PullRequestChart extends Component {
           ],
           backgroundColor: ["#28a745", "#6f42c1", "#d73a49"],
           hoverBackgroundColor: ["#28a745dd", "#6f42c1dd", "#d73a49dd"],
+        */
         },
       ],
     };
