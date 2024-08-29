@@ -297,19 +297,6 @@ const degrees = {
   degrees: [
     {
       title: "University Of Regina",
-      subtitle: "BSc in Computer Science",
-      logo_path: "university_of_regina_logo.png",
-      alt_name: "U Of R",
-      duration: "2014 - 2026",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.uregina.ca/",
-    },
-    {
-      title: "University Of Regina",
       subtitle: "Diploma in Computer Science",
       logo_path: "university_of_regina_logo.png",
       alt_name: "U Of R",
