@@ -300,6 +300,19 @@ const degrees = {
       subtitle: "Diploma in Computer Science",
       logo_path: "university_of_regina_logo.png",
       alt_name: "U Of R",
+      duration: "2024 - 2026",
+      descriptions: [
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "https://www.uregina.ca/",
+    },
+    {
+      title: "University Of Regina",
+      subtitle: "Diploma in Computer Science",
+      logo_path: "university_of_regina_logo.png",
+      alt_name: "U Of R",
       duration: "2019 - 2021",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
