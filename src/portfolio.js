@@ -297,7 +297,7 @@ const degrees = {
   degrees: [
     {
       title: "University Of Regina",
-      subtitle: "Diploma in Computer Science",
+      subtitle: "Bachelors in Computer Science",
       logo_path: "university_of_regina_logo.png",
       alt_name: "U Of R",
       duration: "2024 - 2026",
