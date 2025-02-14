@@ -379,10 +379,26 @@ const experience = {
       experiences: [
         {
           title: "Full Stack Developer",
+          company: "Saskatchewan Workers'​ Compensation Board",
+          company_url: "https://www.wcbsask.com/",
+          logo_path: "cgi_logo.png",
+          duration: "Nov 2024 - Present",
+          location: "Regina, SK, Canada",
+          description:
+            "Developed and maintained web applications using Java, Angular, TypeScript, Restful API/RestAPI, HTML, CSS, JavaScript, jQuery, AJAX, JSON, MongoDB, JIRA, Eureka Server, Microservices, GIT, Spring Boot and SQL.Using ITIL/Software Development lifecycle to plan and deploy changes using change request, release, and tasks.Agile Methodology.Unit test cases, Postman and Swagger for API testing.Web Usability (UI/UX Design).",
+          color: "#0879bf",
+        },
+  sections: [
+    {
+      title: "Work",
+      work: true,
+      experiences: [
+        {
+          title: "Full Stack Developer",
           company: "CGI",
           company_url: "https://www.cgi.com/en",
           logo_path: "cgi_logo.png",
-          duration: "June 2022 - Present",
+          duration: "June 2022 - Nov 2024",
           location: "Regina, SK, Canada",
           description:
             "Developed and maintained web applications using Java, Angular, TypeScript, Restful API/RestAPI, HTML, CSS, JavaScript, jQuery, AJAX, JSON, MongoDB, JIRA, Eureka Server, Microservices, GIT, Spring Boot and SQL.Using ITIL/Software Development lifecycle to plan and deploy changes using change request, release, and tasks.Agile Methodology.Unit test cases, Postman and Swagger for API testing.Web Usability (UI/UX Design).",
